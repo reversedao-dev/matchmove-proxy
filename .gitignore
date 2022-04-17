@@ -1,0 +1,10 @@
+# dependencies
+node_modules
+
+# local env files
+.env
+
+#lock
+package-lock.json
+
+
